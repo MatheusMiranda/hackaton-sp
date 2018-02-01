@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  opening_date: 2018-02-01 09:23:25
+  opening_date: 2018-02-01 10:18:55
   address: MyText
   solicitation_number: MyString
   zip_code: MyString
@@ -17,15 +17,14 @@ one:
   form_fields: MyText
   solicitation_description: MyText
   solicitation_status: MyString
-  decision_date: 2018-02-01 09:23:25
-  decision_date: 2018-02-01 09:23:25
+  decision_date: 2018-02-01 10:18:55
   answear: MyText
   latitude: MyString
   longitude: MyString
   last_historic: MyString
 
 two:
-  opening_date: 2018-02-01 09:23:25
+  opening_date: 2018-02-01 10:18:55
   address: MyText
   solicitation_number: MyString
   zip_code: MyString
@@ -41,8 +40,7 @@ two:
   form_fields: MyText
   solicitation_description: MyText
   solicitation_status: MyString
-  decision_date: 2018-02-01 09:23:25
-  decision_date: 2018-02-01 09:23:25
+  decision_date: 2018-02-01 10:18:55
   answear: MyText
   latitude: MyString
   longitude: MyString

@@ -18,7 +18,6 @@ class CreateSolicitations < ActiveRecord::Migration[5.0]
       t.text :solicitation_description
       t.string :solicitation_status
       t.datetime :decision_date
-      t.datetime :decision_date
       t.text :answear
       t.string :latitude
       t.string :longitude
